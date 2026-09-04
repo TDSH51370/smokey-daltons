@@ -1,0 +1,17 @@
+{
+  "name": "Smokey — The Daltons Smokehouse",
+  "short_name": "Smokey",
+  "description": "Attrapez la viande, évitez les légumes, sortez la pièce du fumoir au bon moment.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#0D0B0A",
+  "theme_color": "#0D0B0A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
